@@ -2,7 +2,7 @@
 
 ## Description
 
-POPULATE INFORMATION
+Social flatform that can be used to add friends, thoughts, and reactions to thoughts. The technology used here is based on the CRUD (Create, Read, Update, and Delete) methods. The video (below) in the readme.md file has a demo that you can view to these actions in 'action'.
 
 ## Repository:
 https://github.com/ATXiceman512/social-network
@@ -25,7 +25,7 @@ also run the command 'npm start' from the root directory to start up the express
 
 ## Usage
 
-PICTURES HERE - Maybe Needed
+Video Tutorial: https://drive.google.com/file/d/1Vy3FhxEnqMHLUGmZrKvBd6lt5nvjY49B/view
 
 ## Credits
 Justin Beard - Github profile: https://github.com/ATXiceman512
